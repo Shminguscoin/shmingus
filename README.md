@@ -4,19 +4,19 @@ Shminguscoin Core [SHM]
 <img src="https://avatars.githubusercontent.com/u/104106315?s=200&v=4" alt="Shminguscoin" width="200"/>
 </h1>
 
-## []What is Shminguscoin?
+## What is Shminguscoin?
 
-Shminguscoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Dogecoin and Bitcoin, Bunkercoin currently employs a simplified variant of scrypt.
+Shminguscoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Dogecoin and Litecoin, Shminguscoin currently employs a simplified variant of scrypt.
 
 ## Usage 
 
-To start your journey with Bunkercoin Core, see the [installation guide](INSTALL.md) and the [getting started](doc/getting-started.md) tutorial.
+To start your journey with Shminguscoin Core, see the [installation guide](INSTALL.md) and the [getting started](doc/getting-started.md) tutorial.
 
-The JSON-RPC API provided by Bunkercoin Core is self-documenting and can be browsed with `bunkercoin-cli help`, while detailed information for each command can be viewed with `bunkercoin-cli help <command>`. Alternatively, see the [Bitcoin Core documentation](https://developer.bitcoin.org/reference/rpc/) - which implement a similar protocol - to get a browsable version.
+The JSON-RPC API provided by Shminguscoin Core is self-documenting and can be browsed with `shminguscoin-cli help`, while detailed information for each command can be viewed with `shminguscoin-cli help <command>`. Alternatively, see the [Bitcoin Core documentation](https://developer.bitcoin.org/reference/rpc/) - which implement a similar protocol - to get a browsable version.
 
 ##License
 
-Bunkercoin is released under the terms of the MIT license. See  [COPYING](https://github.com/bunkercoin-project/bunkercoin/blob/master/COPYING)  for more information or see  [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT).
+Shminguscoin is released under the terms of the MIT license. See  [COPYING](https://github.com/bunkercoin-project/bunkercoin/blob/master/COPYING)  for more information or see  [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT).
 
 ## Development and contributions
 
@@ -24,16 +24,14 @@ Development is ongoing and the development team as well as other volunteers can 
 
 ## Not Frequently Asked Questions
 
-### How much bunkercoin's can exist?
+### How many Shminguscoin's can exist?
 
-As much as your heart desires
+The maximum supply of Shminguscoin will never go above 69 billion (nice)
 
-Each subsequent block will grant a random amount of coins to encourage miners to continue to secure the network and make up for lost wallets on hard drives/lost encryption passwords/etc.
+### How can I mine Shminguscoin?
 
-### How can I bunkercoin?
-
-Bunkercoin uses a simplified variant of the scrypt key derivation function as its proof of work with a target time of one minute per block and difficulty readjustment after every block. The block rewards are fixed and halve every 210,000 blocks. To get Bunkercoin, you have to use a Scrypt miner and
-follow the instructions on https://bunkercoin.org
+Shminguscoin uses a simplified variant of the scrypt key derivation function as its proof of work with a target time of one minute per block and difficulty readjustment after every block. The block rewards are fixed and halve every 210,000 blocks. To get Bunkercoin, you have to use a Scrypt miner and
+follow the instructions on https://shming.us/mining
 
 ### How can I help the network?
 
@@ -43,5 +41,5 @@ The solid best way is to mine. You can use any guide and miner that supports scr
 
 | Function | mainnet |
 | :------- | ------: | 
-| P2P      |   14200 |
-| RPC      |   22555 |
+| P2P      |   64669 |
+| RPC      |   64644 |
