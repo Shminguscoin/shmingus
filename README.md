@@ -1,12 +1,12 @@
 <h1 align="center">
-Bunkercoin Core [BKC, Ƀ]
+Shminguscoin Core [SHM]
 <br/><br/>
-<img src="https://avatars.githubusercontent.com/u/84141344?s=200&v=4" alt="Dogecoin" width="200"/>
+<img src="https://avatars.githubusercontent.com/u/104106315?s=200&v=4" alt="Shminguscoin" width="200"/>
 </h1>
 
-## [](https://github.com/bunkercoin-project/bunkercoin/tree/master#what-is-bunkercoin)What is Bunkercoin?
+## []What is Shminguscoin?
 
-Bunkercoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Dogecoin and Bitcoin, Bunkercoin currently employs a simplified variant of scrypt.
+Shminguscoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Dogecoin and Bitcoin, Bunkercoin currently employs a simplified variant of scrypt.
 
 ## Usage 
 
