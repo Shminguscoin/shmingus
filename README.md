@@ -30,7 +30,7 @@ The maximum supply of Shminguscoin will never go above 69 billion (nice)
 
 ### How can I mine Shminguscoin?
 
-Shminguscoin uses a simplified variant of the scrypt key derivation function as its proof of work with a target time of one minute per block and difficulty readjustment after every block. The block rewards are fixed and halve every 210,000 blocks. To get Bunkercoin, you have to use a Scrypt miner and
+Shminguscoin uses a simplified variant of the scrypt key derivation function as its proof of work with a target time of one minute per block and difficulty readjustment after every block. The block rewards are fixed and halve every 210,000 blocks. To get Shminguscoin, you have to use a Scrypt miner and
 follow the instructions on https://shming.us/mining
 
 ### How can I help the network?
